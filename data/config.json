@@ -1,0 +1,8 @@
+{
+    "rssFeeds": [
+        "https://news.google.com/rss",
+        "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "https://msrc.microsoft.com/blog/feed"
+    ],
+    "openaiApiKey": "sk-OGLErxeHPstIttWuoDhb5bS-_E7L1Ct4ktaYxKPd7eT3BlbkFJAFwMfrkayrkfwJurYrvG4w08CcCSuGVinEZErm-_sA"
+}
